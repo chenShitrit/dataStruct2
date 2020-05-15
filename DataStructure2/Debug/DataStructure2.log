@@ -1,0 +1,9 @@
+﻿  TreeNode.cpp
+c:\users\cshitrit\documents\visual studio 2015\projects\datastructure2\datastructure2\treenode.cpp(40): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  main.cpp
+c:\users\cshitrit\documents\visual studio 2015\projects\datastructure2\datastructure2\main.cpp(48): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DataType.cpp
+c:\users\cshitrit\documents\visual studio 2015\projects\datastructure2\datastructure2\datatype.cpp(16): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  BST.cpp
+c:\users\cshitrit\documents\visual studio 2015\projects\datastructure2\datastructure2\bst.cpp(69): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
